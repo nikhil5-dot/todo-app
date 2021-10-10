@@ -1,0 +1,12 @@
+*{
+  font-size: large;
+}
+
+body{
+  background-color: rgb(145, 125, 235);
+  text-align: center;
+  color: white;
+}
+li{
+  list-style-type: none;
+}
